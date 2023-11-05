@@ -9,7 +9,7 @@ typedef long long ll;
 #define pll pair<long long,long long>
 /*===== Just_a_Line =====*/
 void solve() {
-  cout << "Let's test on master branch\n";
+  cout << "Test complete\n";
 }
 int main() {
   FASTER;
